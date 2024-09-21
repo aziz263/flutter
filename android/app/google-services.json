@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761885990378",
+    "project_id": "sagem-ca020",
+    "storage_bucket": "sagem-ca020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761885990378:android:150240039e4ab463baa693",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jbgyPfTu_OXsPLDIIm0r5WMn_PxQeAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
